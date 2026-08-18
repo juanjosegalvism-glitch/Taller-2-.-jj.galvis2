@@ -8,3 +8,6 @@ T = Variable.split(" ")
 
 print(T)
 
+variable_2 = "chao mundo"
+print(variable_2)
+
