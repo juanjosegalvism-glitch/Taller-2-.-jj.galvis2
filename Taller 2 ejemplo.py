@@ -1,2 +1,6 @@
-h = 12312
+h = "Hola mundo"
 print(h)
+
+
+Variable = h*4
+
